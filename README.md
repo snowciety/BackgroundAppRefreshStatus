@@ -1,9 +1,9 @@
-Ti.BackgroundAppRefreshStatus
+BackgroundAppRefreshStatus
 ============================
 
 Adds support for the BackgroundAppRefreshStatus property of iOS 7 to Appcelerator Titanium so you can notify the User that Background App Refresh is disabled (or restricted).
 
-<h2>Ussage</h2>
+<h2>Usage</h2>
 
 * Download the latest version from the dist folder
 * Install the module into the modules/iphone folder of your project
