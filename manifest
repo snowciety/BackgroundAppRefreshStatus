@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Snowciety
+license: Specify your license
+copyright: Snowciety
+
+
+# these should not be edited
+name: BackgroundAppRefreshStatus
+moduleid: com.snowciety.BackgroundAppRefreshStatus
+guid: 63bdab94-41c3-4e68-9b32-39221dac0154
+platform: iphone
+minsdk: 3.2.0.GA
